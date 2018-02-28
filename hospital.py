@@ -148,7 +148,7 @@ mercywest = Hospital("Mercy West", 5)
 
 # Create and instance of doctor
 
-doctor = Doctor(raw_input("You are a doctor at Mercy West Hospital. What is your name? "))
+doctor = Doctor(raw_input("You are a doctor at City Hospital. What is your name? "))
 
 # Create a new patient:
 
